@@ -68,3 +68,12 @@
 .page-footer .mdl-mini-footer--link-list a {
   font-size: 13px;
 }
+
+/* custom */
+.mdl-layout__drawer-button, .mdl-layout-title{
+  color: black;
+}
+header{
+  background-color: white;
+  box-shadow: none;
+}
