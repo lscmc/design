@@ -59,7 +59,7 @@
   height: 13vh;
 }
 
-@media only screen and (max-width: 424px){
+@media only screen and (max-width: 425px){
   .page-footer {
     height: 18vh;
   }
