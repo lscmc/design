@@ -63,6 +63,9 @@
   .page-footer {
     height: 18vh;
   }
+  #vsbtn{
+    display:none;
+  }
 }
 
 .page-footer .mdl-mini-footer--link-list a {
